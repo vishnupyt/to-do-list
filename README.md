@@ -44,11 +44,3 @@ No installation is required. Simply open `index.html` in your browser to use the
 ## Contributing
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the `README.md` further based on your preferences. Let me know if you need help with anything else! 😊
